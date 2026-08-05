@@ -7,4 +7,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
