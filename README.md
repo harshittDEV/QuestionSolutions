@@ -6,6 +6,7 @@ Collection of LeetCode questions
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
 ## Array
 |  |
