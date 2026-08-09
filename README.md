@@ -6,6 +6,7 @@ Collection of LeetCode questions
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0620-not-boring-movies) |
