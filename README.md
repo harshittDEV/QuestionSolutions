@@ -36,10 +36,23 @@ Collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
