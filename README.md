@@ -15,6 +15,7 @@ Collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -65,4 +66,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
