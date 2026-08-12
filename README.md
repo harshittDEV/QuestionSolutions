@@ -17,6 +17,7 @@ Collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0605-can-place-flowers) |
@@ -83,4 +84,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
