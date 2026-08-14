@@ -27,6 +27,7 @@ Collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
+| [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
