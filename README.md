@@ -14,6 +14,7 @@ Collection of LeetCode questions
 | [0183-customers-who-never-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0619-biggest-single-number](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1527-patients-with-a-condition) |
