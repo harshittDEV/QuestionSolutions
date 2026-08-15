@@ -18,6 +18,7 @@ Collection of LeetCode questions
 | [0620-not-boring-movies](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1527-patients-with-a-condition) |
+| [1693-daily-leads-and-partners](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1873-calculate-special-bonus) |
 ## Array
