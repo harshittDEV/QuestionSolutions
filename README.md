@@ -26,6 +26,7 @@ Collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
