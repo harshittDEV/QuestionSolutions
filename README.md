@@ -59,6 +59,7 @@ Collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
