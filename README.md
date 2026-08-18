@@ -19,6 +19,7 @@ Collection of LeetCode questions
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1693-daily-leads-and-partners) |
