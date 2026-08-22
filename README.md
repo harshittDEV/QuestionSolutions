@@ -17,6 +17,7 @@ Collection of LeetCode questions
 | [0196-delete-duplicate-emails](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
