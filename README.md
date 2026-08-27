@@ -33,6 +33,7 @@ Collection of LeetCode questions
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1179-reformat-department-table) |
 | [1527-patients-with-a-condition](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1729-find-followers-count) |
