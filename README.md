@@ -33,6 +33,7 @@ Collection of LeetCode questions
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1327-list-the-products-ordered-in-a-period) |
