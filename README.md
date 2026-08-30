@@ -36,6 +36,7 @@ Collection of LeetCode questions
 | [1084-sales-analysis-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1148-article-views-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1327-list-the-products-ordered-in-a-period) |
