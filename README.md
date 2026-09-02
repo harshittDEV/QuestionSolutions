@@ -48,6 +48,7 @@ Collection of LeetCode questions
 | [1693-daily-leads-and-partners](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1873-calculate-special-bonus) |
+| [3570-find-books-with-no-available-copies](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
 |  |
 | ------- |
