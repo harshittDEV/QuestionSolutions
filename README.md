@@ -52,6 +52,7 @@ Collection of LeetCode questions
 | [1729-find-followers-count](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1873-calculate-special-bonus) |
+| [3220-odd-and-even-transactions](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3220-odd-and-even-transactions) |
 | [3570-find-books-with-no-available-copies](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
 |  |
