@@ -48,6 +48,7 @@ Collection of LeetCode questions
 | [1407-top-travellers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1729-find-followers-count) |
