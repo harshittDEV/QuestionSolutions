@@ -70,6 +70,7 @@ Collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3903-smallest-stable-index-i) |
@@ -148,4 +149,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
