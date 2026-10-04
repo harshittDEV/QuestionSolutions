@@ -65,6 +65,7 @@ Collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0217-contains-duplicate) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0704-binary-search) |
 ## Sorting
