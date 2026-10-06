@@ -59,6 +59,7 @@ Collection of LeetCode questions
 | [1789-primary-department-for-each-employee](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1934-confirmation-rate) |
 | [3220-odd-and-even-transactions](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3220-odd-and-even-transactions) |
 | [3475-dna-pattern-recognition](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3497-analyze-subscription-conversion) |
