@@ -77,6 +77,7 @@ Collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
+| [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +165,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
