@@ -96,6 +96,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
