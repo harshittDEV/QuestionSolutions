@@ -71,6 +71,7 @@ Collection of LeetCode questions
 | ------- |
 | [0035-search-insert-position](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -158,6 +160,7 @@ Collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
