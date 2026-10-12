@@ -79,6 +79,7 @@ Collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1672-richest-customer-wealth) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
