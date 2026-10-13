@@ -76,6 +76,7 @@ Collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0724-find-pivot-index) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
@@ -184,4 +186,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
