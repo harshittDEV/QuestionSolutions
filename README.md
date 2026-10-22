@@ -91,6 +91,7 @@ Collection of LeetCode questions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
