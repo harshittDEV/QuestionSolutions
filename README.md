@@ -125,6 +125,7 @@ Collection of LeetCode questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode questions
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
 | ------- |
