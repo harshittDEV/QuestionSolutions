@@ -95,6 +95,7 @@ Collection of LeetCode questions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions
 | [2769-find-the-maximum-achievable-number](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3945-digit-frequency-score) |
 ## Queue
