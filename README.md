@@ -99,6 +99,7 @@ Collection of LeetCode questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -127,6 +128,7 @@ Collection of LeetCode questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3945-digit-frequency-score](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
