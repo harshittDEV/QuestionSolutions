@@ -95,6 +95,7 @@ Collection of LeetCode questions
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1748-sum-of-unique-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
@@ -219,6 +221,7 @@ Collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
