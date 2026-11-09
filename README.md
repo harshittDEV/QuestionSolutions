@@ -91,6 +91,7 @@ Collection of LeetCode questions
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
