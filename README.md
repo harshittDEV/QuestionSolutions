@@ -97,6 +97,7 @@ Collection of LeetCode questions
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -198,12 +199,14 @@ Collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +216,7 @@ Collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1051-height-checker) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
