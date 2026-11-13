@@ -160,6 +160,7 @@ Collection of LeetCode questions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Collection of LeetCode questions
 | [1920-build-array-from-permutation](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
