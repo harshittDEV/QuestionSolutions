@@ -162,6 +162,7 @@ Collection of LeetCode questions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
