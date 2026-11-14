@@ -155,6 +155,7 @@ Collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1748-sum-of-unique-elements) |
