@@ -111,6 +111,7 @@ Collection of LeetCode questions
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -250,6 +251,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |
 | ------- |
@@ -271,4 +273,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/0881-boats-to-save-people) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
