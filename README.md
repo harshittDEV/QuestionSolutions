@@ -102,6 +102,7 @@ Collection of LeetCode questions
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
