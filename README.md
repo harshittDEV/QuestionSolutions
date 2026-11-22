@@ -117,6 +117,7 @@ Collection of LeetCode questions
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions
 | [3110-score-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
