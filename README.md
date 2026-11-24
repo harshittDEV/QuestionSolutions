@@ -104,6 +104,7 @@ Collection of LeetCode questions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2418-sort-the-people](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions
 | [1773-count-items-matching-a-rule](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -258,6 +261,7 @@ Collection of LeetCode questions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2418-sort-the-people](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
