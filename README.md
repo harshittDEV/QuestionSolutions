@@ -120,6 +120,7 @@ Collection of LeetCode questions
 | [3701-compute-alternating-sum](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3895-count-digit-appearances](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
