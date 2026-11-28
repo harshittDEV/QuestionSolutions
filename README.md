@@ -105,6 +105,7 @@ Collection of LeetCode questions
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2418-sort-the-people) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshitsinghh1128/QuestionSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
